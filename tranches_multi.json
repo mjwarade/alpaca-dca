@@ -1,5 +1,5 @@
 {
-  "last_sync_at_utc": "2026-08-24T14:08:55.715566Z",
+  "last_sync_at_utc": "2026-08-24T15:10:03.793634Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
@@ -8,6 +8,7 @@
     "1d052401-0033-46a4-b7ad-955d897398ae": "59.98",
     "22a4b034-a92a-4bc9-9779-a8c6352e5aaa": "99.99",
     "26d34473-f0e3-4a89-ae6e-c0149cc8ca0c": "59.99",
+    "28a765af-ead7-4c6b-89bb-7cf408685b6a": "59.98",
     "29421291-44e6-4305-a63b-de8628322db5": "59.99",
     "336bed72-88e1-43e7-bd3e-b35c5c72b700": "99.98",
     "3ad93cb0-67c4-41e9-a5fb-c0f6a05e4f21": "59.98",
@@ -987,15 +988,15 @@
     },
     {
       "created_at_ny": "2026-08-17T10:00:06.097573-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "TSM:2026-08",
       "limit_price": "406.81",
       "month_key": "2026-08",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-08-24T10:08:55.530815-04:00"
+  "updated_at_ny": "2026-08-24T11:10:03.445984-04:00"
 }
