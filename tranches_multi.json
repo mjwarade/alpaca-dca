@@ -1,12 +1,14 @@
 {
-  "last_sync_at_utc": "2026-10-22T18:05:21.794213Z",
+  "last_sync_at_utc": "2026-10-22T18:43:07.061434Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
     "13514b10-7fa1-4581-b543-94190c085838": "59.98",
     "151997ec-f270-4e5c-8cb2-27879d8f7ffe": "99.98",
+    "15e1046a-7822-4a63-a5a5-50c8446e370d": "59.98",
     "1753d7f7-2cbb-4d2c-8f96-be1d2220cf85": "59.98",
     "1d052401-0033-46a4-b7ad-955d897398ae": "59.98",
+    "1f0a4fc2-dd03-4dff-b43d-fec40a831baf": "59.98",
     "22a4b034-a92a-4bc9-9779-a8c6352e5aaa": "99.99",
     "26d34473-f0e3-4a89-ae6e-c0149cc8ca0c": "59.99",
     "28a765af-ead7-4c6b-89bb-7cf408685b6a": "59.98",
@@ -25,6 +27,7 @@
     "53fe007f-5570-4590-8634-cba195f09263": "59.99",
     "56213cc0-6732-49f7-a3ef-5b6f7e3e8431": "99.98",
     "576c88b5-2c51-4191-a59a-51a5c0de4fa4": "59.98",
+    "5a61991e-1e95-4513-96f4-75f1bdac7855": "59.98",
     "5fa0592d-9e2f-4c79-ab1f-2b6ce7bcbd53": "59.98",
     "5fec916a-6453-451f-9bf1-2516472f5f75": "59.98",
     "618284d9-f5f5-49f1-a547-327f3dd9427d": "59.98",
@@ -43,6 +46,7 @@
     "8e967c40-7d2e-4458-8d26-bb8be6be0351": "59.98",
     "8f9d1248-3904-4630-91ff-dfe2f935cfa4": "59.98",
     "9d431b67-70eb-4d0b-bdf0-cfe644bd58bb": "59.98",
+    "9e9aeb92-b5e1-4541-a2c7-fb6cc57b5d47": "59.98",
     "a12faac1-9843-4fb6-a00e-ca041f4a2677": "99.98",
     "a3996a22-75d4-48a0-90de-0e68cf2e564c": "59.99",
     "a9a08ce4-bfdc-4916-a688-5e91b04da497": "59.98",
@@ -1147,23 +1151,23 @@
     },
     {
       "created_at_ny": "2026-10-15T13:49:36.762722-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "ALAB:2026-10",
       "limit_price": "272.08",
       "month_key": "2026-10",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "ALAB"
     },
     {
       "created_at_ny": "2026-10-15T13:49:36.762722-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "AMD:2026-10",
       "limit_price": "518.69",
       "month_key": "2026-10",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "AMD"
     },
@@ -1202,23 +1206,23 @@
     },
     {
       "created_at_ny": "2026-10-15T13:49:36.762722-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "MRVL:2026-10",
       "limit_price": "223.26",
       "month_key": "2026-10",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "MRVL"
     },
     {
       "created_at_ny": "2026-10-15T13:49:36.762722-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "MU:2026-10",
       "limit_price": "863.72",
       "month_key": "2026-10",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "MU"
     },
@@ -1267,5 +1271,5 @@
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-10-22T14:05:21.337070-04:00"
+  "updated_at_ny": "2026-10-22T14:43:06.971089-04:00"
 }
