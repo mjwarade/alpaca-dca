@@ -1,5 +1,5 @@
 {
-  "last_sync_at_utc": "2026-10-30T18:41:58.616388Z",
+  "last_sync_at_utc": "2026-10-30T19:35:53.464423Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
@@ -13,13 +13,16 @@
     "26d34473-f0e3-4a89-ae6e-c0149cc8ca0c": "59.99",
     "28a765af-ead7-4c6b-89bb-7cf408685b6a": "59.98",
     "29421291-44e6-4305-a63b-de8628322db5": "59.99",
+    "30a1d5f1-8832-4dbe-ad09-09bc9c641373": "59.98",
     "336bed72-88e1-43e7-bd3e-b35c5c72b700": "99.98",
+    "340c4181-3604-44cb-a0a4-83f479ad4144": "99.98",
     "3ad3be33-860f-48b4-abe6-dd07ecedba2b": "59.98",
     "3ad93cb0-67c4-41e9-a5fb-c0f6a05e4f21": "59.98",
     "3b978844-795b-461c-8fd3-c204104e8178": "59.98",
     "3cdd42f0-66f8-42d6-863c-596ac32dd99d": "59.98",
     "3ddd0ab0-76f1-4bdd-978a-022f4591dd82": "59.98",
     "3eff5ec4-9ccc-4ec4-b2de-870969ad2c75": "59.99",
+    "419b8345-75dc-4cad-9cd0-36b3fb0d6120": "59.98",
     "42d406b2-180c-4430-89ed-84f8952aff41": "59.98",
     "43e6d28b-10d8-49b9-b70b-e954216edbff": "59.98",
     "4e921cf7-9045-4044-8ea6-ad5ccfc02f96": "59.99",
@@ -37,6 +40,7 @@
     "6da394f6-93a3-4efd-8b67-696382559c28": "59.99",
     "705c3ce2-8edc-4750-b3dd-416bf260fe89": "59.98",
     "786c6e4a-23b9-4e0e-9959-71019a3bdfb0": "59.98",
+    "78cbbc9e-5d6e-4f12-a486-fffa03cfaff5": "99.98",
     "7cf9c6aa-c0f8-4060-94c4-6b8150ae2f83": "59.98",
     "7f2f8909-d4e2-4ff7-84a4-dde74fe205e4": "59.99",
     "80214c64-a46e-4ae4-91f2-227d6495d249": "59.98",
@@ -75,6 +79,7 @@
     "e4993be5-f3d5-4b92-8073-c498d01196f7": "59.98",
     "e4ab5511-ba1b-4fab-b30c-2f185d802926": "59.98",
     "e67c5593-8552-4d44-a093-70999466ca03": "99.99",
+    "ec0712b9-b900-4adc-9e89-c6fddaa3a9a5": "59.98",
     "eeca9aff-3dfd-4db6-a12d-85df4fe14083": "59.98",
     "f2a6ce8f-fe5d-4ae4-9477-5baf28048ca9": "59.98",
     "f4b00bb0-8b08-4744-aadb-723b1f09d7b8": "59.99",
@@ -516,12 +521,12 @@
     },
     {
       "created_at_ny": "2026-05-15T11:35:24.535425-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "ARM:2026-05",
       "limit_price": "201.79",
       "month_key": "2026-05",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "ARM"
     },
@@ -1077,12 +1082,12 @@
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "MRVL:2026-09",
       "limit_price": "211.10",
       "month_key": "2026-09",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "MRVL"
     },
@@ -1099,12 +1104,12 @@
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "99.98",
       "id": "NVDA:2026-09",
       "limit_price": "201.00",
       "month_key": "2026-09",
       "notional": "100",
-      "remaining_notional": "100",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "NVDA"
     },
@@ -1143,12 +1148,12 @@
     },
     {
       "created_at_ny": "2026-10-15T13:49:36.762722-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "IBIT:2026-10",
       "limit_price": "44.10",
       "month_key": "2026-10",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "IBIT"
     },
@@ -1231,12 +1236,12 @@
     },
     {
       "created_at_ny": "2026-10-15T13:49:36.762722-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "99.98",
       "id": "NVDA:2026-10",
       "limit_price": "206.34",
       "month_key": "2026-10",
       "notional": "100",
-      "remaining_notional": "100",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "NVDA"
     },
@@ -1274,5 +1279,5 @@
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-10-30T14:41:58.180001-04:00"
+  "updated_at_ny": "2026-10-30T15:35:52.667850-04:00"
 }
