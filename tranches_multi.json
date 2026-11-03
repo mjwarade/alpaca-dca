@@ -1,5 +1,5 @@
 {
-  "last_sync_at_utc": "2026-11-02T22:50:53.784911Z",
+  "last_sync_at_utc": "2026-11-03T20:12:00.271964Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
@@ -41,11 +41,13 @@
     "705c3ce2-8edc-4750-b3dd-416bf260fe89": "59.98",
     "786c6e4a-23b9-4e0e-9959-71019a3bdfb0": "59.98",
     "78cbbc9e-5d6e-4f12-a486-fffa03cfaff5": "99.98",
+    "7a4a06c4-f016-4a2b-81fc-1fdd10f6d2e7": "59.98",
     "7cf9c6aa-c0f8-4060-94c4-6b8150ae2f83": "59.98",
     "7f2f8909-d4e2-4ff7-84a4-dde74fe205e4": "59.99",
     "80214c64-a46e-4ae4-91f2-227d6495d249": "59.98",
     "834d20ce-8636-4fca-aff7-1e62dcce19ec": "59.99",
     "8609f3d6-f3aa-49c5-95ab-1bffac59e265": "59.99",
+    "887b56e8-f5a3-4004-894a-ad281b56cf0e": "59.98",
     "8a276cc0-7657-4135-a8d5-0e8017c7efd7": "99.98",
     "8a77f2da-028c-400d-a318-7f2251d8bd4b": "59.98",
     "8e967c40-7d2e-4458-8d26-bb8be6be0351": "59.98",
@@ -74,6 +76,7 @@
     "d6616f3c-c5cf-490d-923b-299bb0bf1782": "59.99",
     "d7b9b234-eaff-40c3-a9d2-907b5f7432e0": "59.98",
     "da24abd2-a274-49da-a6eb-d80e3d928ac3": "59.98",
+    "e09841e4-bbcc-4e66-b25a-d01e48d4f2a5": "59.98",
     "e0d24385-d38f-4864-afe0-5a57937bc98d": "59.98",
     "e2803f85-1b92-445a-ad2b-9ed53014f55c": "99.99",
     "e4993be5-f3d5-4b92-8073-c498d01196f7": "59.98",
@@ -1027,23 +1030,23 @@
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "ALAB:2026-09",
       "limit_price": "243.61",
       "month_key": "2026-09",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "ALAB"
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "AMD:2026-09",
       "limit_price": "478.55",
       "month_key": "2026-09",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "AMD"
     },
@@ -1115,12 +1118,12 @@
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "PLTR:2026-09",
       "limit_price": "167.38",
       "month_key": "2026-09",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "PLTR"
     },
@@ -1279,5 +1282,5 @@
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-11-02T17:50:53.451420-05:00"
+  "updated_at_ny": "2026-11-03T15:11:59.760916-05:00"
 }
