@@ -1,5 +1,5 @@
 {
-  "last_sync_at_utc": "2026-11-05T20:44:54.998179Z",
+  "last_sync_at_utc": "2026-11-05T21:09:37.589925Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
@@ -37,6 +37,7 @@
     "5fec916a-6453-451f-9bf1-2516472f5f75": "59.98",
     "618284d9-f5f5-49f1-a547-327f3dd9427d": "59.98",
     "626e8e85-7c4f-47cb-ad46-2a67c6801dba": "99.99",
+    "6510619a-4e6a-4631-988b-bee65a9e0f66": "59.98",
     "6c4d3fae-11af-4785-96b4-be5fc183c9c4": "59.98",
     "6da394f6-93a3-4efd-8b67-696382559c28": "59.99",
     "705c3ce2-8edc-4750-b3dd-416bf260fe89": "59.98",
@@ -69,9 +70,11 @@
     "bf6b6a34-54dc-465a-86c0-9060fae3ae74": "59.99",
     "c0acb065-8a10-4d47-8003-55cf68048fc3": "59.99",
     "c22424a4-9eb6-4b57-912b-9ae8718bf82a": "59.98",
+    "c6a3288a-7122-4648-8ae3-44cdbfce881b": "59.98",
     "c72036b3-8df3-4c78-a20b-bc75d30d220c": "59.99",
     "ca667bf0-e4c3-4593-85e2-70e0e858cf09": "59.99",
     "ca81d49f-b5a7-4739-95c7-452e978e6a26": "59.98",
+    "cbc42532-00f6-4be7-a484-ce5db909b59c": "99.98",
     "d23f8209-1f5d-4db5-b9ba-eaf229fb3c50": "59.99",
     "d2729bd6-c299-4768-953e-10f6d3abcc70": "59.99",
     "d27eba13-455b-4613-b47a-40c2510588f4": "59.99",
@@ -449,12 +452,12 @@
     },
     {
       "created_at_ny": "2026-04-15T10:52:31.010959-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "99.98",
       "id": "NVDA:2026-04",
       "limit_price": "189.42",
       "month_key": "2026-04",
       "notional": "100",
-      "remaining_notional": "100",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "NVDA"
     },
@@ -548,12 +551,12 @@
     },
     {
       "created_at_ny": "2026-05-15T11:35:24.535425-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "ASML:2026-05",
       "limit_price": "1444.34",
       "month_key": "2026-05",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "ASML"
     },
@@ -1142,12 +1145,12 @@
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "TSM:2026-09",
       "limit_price": "392.73",
       "month_key": "2026-09",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "TSM"
     },
@@ -1284,5 +1287,5 @@
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-11-05T15:44:54.224918-05:00"
+  "updated_at_ny": "2026-11-05T16:09:37.301199-05:00"
 }
