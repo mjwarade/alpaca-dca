@@ -1,5 +1,5 @@
 {
-  "last_sync_at_utc": "2026-11-09T23:30:10.159482Z",
+  "last_sync_at_utc": "2026-11-10T20:31:13.474623Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
@@ -26,6 +26,7 @@
     "419b8345-75dc-4cad-9cd0-36b3fb0d6120": "59.98",
     "42d406b2-180c-4430-89ed-84f8952aff41": "59.98",
     "43e6d28b-10d8-49b9-b70b-e954216edbff": "59.98",
+    "47701c86-ae26-4dca-8928-09a504be7698": "59.98",
     "4e921cf7-9045-4044-8ea6-ad5ccfc02f96": "59.99",
     "50a65341-6ffe-45bf-9985-1b4485917484": "59.98",
     "5279e0a1-448e-478c-b372-4794ba30b88f": "59.98",
@@ -1024,12 +1025,12 @@
     },
     {
       "created_at_ny": "2026-09-15T13:43:09.009022-04:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "IBIT:2026-09",
       "limit_price": "41.29",
       "month_key": "2026-09",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "IBIT"
     },
@@ -1287,5 +1288,5 @@
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-11-09T18:30:09.705149-05:00"
+  "updated_at_ny": "2026-11-10T15:31:13.128131-05:00"
 }
