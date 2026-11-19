@@ -1,5 +1,5 @@
 {
-  "last_sync_at_utc": "2026-11-18T22:13:23.075239Z",
+  "last_sync_at_utc": "2026-11-19T21:42:11.473063Z",
   "schema": 1,
   "seen_order_filled_notional": {
     "13350c22-933b-4e11-9bf4-f15696afd62f": "99.99",
@@ -35,6 +35,8 @@
     "56213cc0-6732-49f7-a3ef-5b6f7e3e8431": "99.98",
     "576c88b5-2c51-4191-a59a-51a5c0de4fa4": "59.98",
     "5a61991e-1e95-4513-96f4-75f1bdac7855": "59.98",
+    "5d10a703-379d-4f77-9ca1-7b0119d432a9": "99.98",
+    "5d63ca70-1713-48dc-a7e4-54c2a2648b05": "59.98",
     "5fa0592d-9e2f-4c79-ab1f-2b6ce7bcbd53": "59.98",
     "5fec916a-6453-451f-9bf1-2516472f5f75": "59.98",
     "618284d9-f5f5-49f1-a547-327f3dd9427d": "59.98",
@@ -79,6 +81,7 @@
     "ca667bf0-e4c3-4593-85e2-70e0e858cf09": "59.99",
     "ca81d49f-b5a7-4739-95c7-452e978e6a26": "59.98",
     "cbc42532-00f6-4be7-a484-ce5db909b59c": "99.98",
+    "d0c9c8e8-141a-4173-9f80-51789c0c39a0": "59.98",
     "d23f8209-1f5d-4db5-b9ba-eaf229fb3c50": "59.99",
     "d2729bd6-c299-4768-953e-10f6d3abcc70": "59.99",
     "d27eba13-455b-4613-b47a-40c2510588f4": "59.99",
@@ -1293,12 +1296,12 @@
     },
     {
       "created_at_ny": "2026-11-16T17:57:46.397934-05:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "IBIT:2026-11",
       "limit_price": "34.95",
       "month_key": "2026-11",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "IBIT"
     },
@@ -1315,12 +1318,12 @@
     },
     {
       "created_at_ny": "2026-11-16T17:57:46.397934-05:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "59.98",
       "id": "AMD:2026-11",
       "limit_price": "478.91",
       "month_key": "2026-11",
       "notional": "60",
-      "remaining_notional": "60",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "AMD"
     },
@@ -1381,12 +1384,12 @@
     },
     {
       "created_at_ny": "2026-11-16T17:57:46.397934-05:00",
-      "filled_notional_total": "0.00",
+      "filled_notional_total": "99.98",
       "id": "NVDA:2026-11",
       "limit_price": "148.33",
       "month_key": "2026-11",
       "notional": "100",
-      "remaining_notional": "100",
+      "remaining_notional": "0.02",
       "status": "active",
       "symbol": "NVDA"
     },
@@ -1424,5 +1427,5 @@
       "symbol": "TSM"
     }
   ],
-  "updated_at_ny": "2026-11-18T17:13:22.176093-05:00"
+  "updated_at_ny": "2026-11-19T16:42:10.485148-05:00"
 }
